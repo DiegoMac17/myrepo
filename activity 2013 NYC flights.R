@@ -6,10 +6,10 @@
 #1) 5 -> Airlines, Airports, Flights, Planes, Weather
 
 #class(flights)
-#2)data frame
+#2)data frame.
 
 #View(flights)
-#3) 19 variables and 336776 variables
+#3) 19 variables and 336776 variables.
 
 #4)
 library(tidyverse)
