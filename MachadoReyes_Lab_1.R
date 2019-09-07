@@ -67,3 +67,4 @@ circle_data %>% summarize(r=cor(x,y))
 #Plot all the dataset in datasaurus_dozen
 datasaurus_dozen %>% ggplot(aes(x=x,y=y,color = dataset)) + geom_point()+ facet_wrap(~dataset,ncol=3)
 
+
